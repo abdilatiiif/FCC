@@ -65,3 +65,5 @@ function fightDragon() {
 function buyHealth() {}
 
 function buyWeapon() {}
+
+// commit changes - through vc code  - 23.12.2023
